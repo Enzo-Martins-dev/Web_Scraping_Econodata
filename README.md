@@ -10,7 +10,7 @@ Buscou-se acessar as páginas das empresas e extrair as informações que foram 
 - Pandas: Manipulação de dados extraídos.
 - OpenPyXL: Exportação dos dados para planilhas Excel.
 - JSON: Armazenamento estruturado dos dados.
-- CSV: Exportação inicial dos dados em formato tabular.
+- CSV: Exportação inicial dos dados em forma de tabela.
 
 # Funcionalidades
 ## Extração automatizada de informações:  
