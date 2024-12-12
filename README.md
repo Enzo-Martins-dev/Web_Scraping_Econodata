@@ -7,7 +7,7 @@ Buscou-se acessar as páginas das empresas e extrair as informações que foram 
 # Tecnologias Utilizadas
 - Python (3.12.6): Linguagem de Programação base
 - Playwright: Automação de navegador para extração de dados.
-- Pandas: Manipulação de dados extraídos.
+- Pandas: Manipulação de dados.
 - OpenPyXL: Exportação dos dados para planilhas Excel.
 - JSON: Armazenamento estruturado dos dados.
 - CSV: Exportação inicial dos dados em forma de tabela.
@@ -18,7 +18,7 @@ Buscou-se acessar as páginas das empresas e extrair as informações que foram 
 - Razão social.
 - CNPJ.
 - Situação.
-- Endereço completo (logradouro, número, bairro, município, estado e CEP).
+- Endereço (logradouro, número, bairro, município, estado e CEP).
 ##  Armazenamento dos dados:
 - Arquivos exportados em formato JSON, CSV e Excel.
 - Organização dos campos do endereço em colunas específicas.
